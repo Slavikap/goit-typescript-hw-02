@@ -1,0 +1,38 @@
+.header-search {
+      background-color: gray;
+      padding-top: 40px;
+      padding-bottom: 40px;
+      margin-bottom: 10px;
+    }
+    
+    .header-form {
+      display: flex;
+      gap: 10px;
+      justify-content: center;
+      align-items: center;
+      width: 100%;
+    }
+    
+    .input-header {
+      height: 30px;
+      width: 160px;
+      border-radius: 4px;
+      outline: none;
+      border: 1px solid gray;
+    }
+    
+    .button-header {
+      cursor: pointer;
+      background-color: #ffffff;
+      border: 1px solid gray;
+      padding: 5px;
+      border-radius: 4px;
+      color: #000000;
+      width: 70px;
+      height: 35px;
+    }
+
+    .button-header:hover {
+      background-color:cornflowerblue;
+      color: white;
+    }
